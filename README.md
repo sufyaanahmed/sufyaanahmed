@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sufyaan Ahmed
 
-### A passionate Javascript developer
+### A passionate Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyaanahmed&label=Profile views&color=0e75b6&style=flat" alt="sufyaanahmed" /> </p>
 
