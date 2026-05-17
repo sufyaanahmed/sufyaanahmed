@@ -3,7 +3,6 @@
 ### Full-Stack Developer trying to make tech + finance slightly less confusing
 
 * 🔭 Currently building trading & finance-focused web apps
-* 🌱 Learning TypeScript, Supabase, and system design
 * 👯 Open to collaborating on AI, fintech, and web projects
 * 💬 Ask me about React.js, Next.js, Python, or why fixing one bug creates three new ones
 * ⚡ Fun fact: My projects usually start with “this should be simple”
